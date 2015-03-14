@@ -1337,6 +1337,10 @@ h2 {
 }
 
 /* Member section (creative minds) */
+.include-contact{
+    position: relative;
+    top: 60px;
+}
 
 #members {
     background-color: #fff;
